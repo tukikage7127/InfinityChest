@@ -1,0 +1,11 @@
+name: InfinityChest_PE
+main: IC\IC
+version: 16
+api: [1.0.0,2.0.0]
+load: POSTWORLD
+author: tukikage7127
+description: this is InfinityChest
+commands:
+ ic:
+  usage:
+  description: 無限チェスト関係
